@@ -30,4 +30,4 @@ const unsigned long REFUND_RETRY_MS = 8000;
 
 int neutral_us = 1403;
 int SERVO_DOWN_US = 1403 + 250;
-int SERVO_UP_US = 1500;
+int SERVO_UP_US = 1403 - 250;
